@@ -77,7 +77,7 @@ export default function App() {
 
         <small>
           <a
-            href="https://github.com/Olga-Zivenko/my-sheCodes-project"
+            href="https://github.com/Olga-Zivenko/weather-react"
             target="_blank"
             rel="noreferrer"
           >
